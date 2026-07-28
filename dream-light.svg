@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-label="一台没有上限的机器。agent 争吵、分工、裂变，千万行代码以肉眼极限涌出。只为兑现一个转瞬的念头。">
+  <rect width="900" height="230" fill="#F0EEE6"/>
+  <g font-family="'Source Han Serif SC VF', 'Source Han Serif SC', 'Noto Serif SC', 'Songti SC', Georgia, serif" fill="#191919">
+    <text x="72" y="76" font-size="27" letter-spacing="0.6">一台没有上限的机器。</text>
+    <text x="72" y="132" font-size="20" fill="#3D3B37" letter-spacing="0.6">agent 争吵、分工、裂变，千万行代码以肉眼极限涌出。</text>
+    <text x="72" y="176" font-size="20" fill="#3D3B37" letter-spacing="0.6">只为兑现一个转瞬的念头。</text>
+  </g>
+  <rect x="72" y="200" width="36" height="2" rx="1" fill="#D97757"/>
+</svg>
